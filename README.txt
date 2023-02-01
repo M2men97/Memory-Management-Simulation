@@ -1,6 +1,5 @@
 Memory Simulation 
 Authored by Mo'men Abu Gharbieh
-318314853
 
 ==Description==
 This program is a memory simulation for linux , and we are using the page mapping in it , we will have a small explanation here , (all the load and store calls are in the main.cpp file) .
